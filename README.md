@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy un ingeniero en sistemas con más de 3 años de experiencia, apasionado por la programación y el desarrollo de software. 💻✨<br><br>💡 Mi enfoque principal se encuentra en el desarrollo de soluciones tecnológicas innovadoras, utilizando un amplio conocimiento en diversas áreas como el desarrollo de software, administración de bases de datos y redes. 🚀<br><br>🔧 Soy un solucionador de problemas entusiasta y siempre estoy buscando nuevas formas de optimizar y mejorar el código. Me encanta trabajar en proyectos colaborativos y contribuir con mi experiencia y habilidades técnicas. 👥💪
+Soy un ingeniero en sistemas con más de 4 años de experiencia, apasionado por la programación y el desarrollo de software. 💻✨<br><br>💡 Mi enfoque principal se encuentra en el desarrollo de soluciones tecnológicas innovadoras, utilizando un amplio conocimiento en diversas áreas como el desarrollo de software, administración de bases de datos y redes. 🚀<br><br>🔧 Soy un solucionador de problemas entusiasta y siempre estoy buscando nuevas formas de optimizar y mejorar el código. Me encanta trabajar en proyectos colaborativos y contribuir con mi experiencia y habilidades técnicas. 👥💪
 
 
 ## 🌐 Socials:
