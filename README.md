@@ -140,7 +140,4 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/MauLang18/MauLang18/output/snake.svg" alt="Snake animation" />
-
 ###
